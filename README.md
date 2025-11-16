@@ -6,7 +6,7 @@ I am a computer science major at California Polytehcnic State University - San L
 ---
 
 ## 🎯 Objective
-I started in computer science but found a stronger interest in IT than coding. Through my experience in IT, I’ve developed a passion for infrastructure and networking, and I’m eager to continue growing and transitioning into those areas.
+My background in computer science has helped me discover a passion for information technology. Through my experience in IT, I’ve developed a passion for infrastructure and networking, and I’m eager to continue growing and transitioning into those areas.
 
 ---
 
