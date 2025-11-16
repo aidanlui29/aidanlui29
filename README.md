@@ -48,6 +48,12 @@ I aim to pursue a career in **network engineering or systems administration**, w
 
 ---
 
+## 🏅 Awards
+- **President’s Honor List (2023–2024)** — Maintained a 3.5+ GPA for the academic year  
+- **Athletic Scholarship Recipient** — Recognized for excellence in competitive diving, ranking in the top 5% at the state level  
+
+---
+
 ## 💡 Projects
 
 ### 🖥️ osTicket Helpdesk Deployment  
@@ -60,8 +66,3 @@ I aim to pursue a career in **network engineering or systems administration**, w
 
 ---
 
-## 🏅 Awards
-- **President’s Honor List (2023–2024)** — Maintained a 3.5+ GPA for the academic year  
-- **Athletic Scholarship Recipient** — Recognized for excellence in competitive diving, ranking in the top 5% at the state level  
-
----
