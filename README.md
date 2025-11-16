@@ -1,13 +1,12 @@
 # Hello, I'm Aidan Lui 👋  
 <a href="https://www.linkedin.com/in/aidan-lui-790933307/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a **Computer Science student** at *California Polytechnic State University, San Luis Obispo* with a strong interest in **network engineering, IT infrastructure, and systems administration**.  
-I enjoy building, configuring, and maintaining reliable systems — from deploying cloud-based environments to automating IT operations.
+I am a computer science major at California Polytehcnic State University - San Luis Obispo with a passion for hands-on technology and problem-solving
 
 ---
 
 ## 🎯 Objective
-I aim to pursue a career in **network engineering or systems administration**, where I can apply my technical foundation in computer science and hands-on IT experience to support and optimize critical infrastructure systems.
+I started in computer science but found a stronger interest in IT than coding. Through my experience in IT, I’ve developed a passion for infrastructure and networking, and I’m eager to continue growing and transitioning into those areas.
 
 ---
 
