@@ -11,7 +11,7 @@ I aim to pursue a career in **network engineering or systems administration**, w
 
 ---
 
-## 🧠 Skills & Associated Projects
+## 🧠 Skills
 
 | Skill                                         | Associated Project |
 |-----------------------------------------------|--------------------|
@@ -52,16 +52,11 @@ I aim to pursue a career in **network engineering or systems administration**, w
 
 ### 🖥️ osTicket Helpdesk Deployment  
 **Microsoft Azure | Ubuntu | LAMP Stack | IT Systems**  
-Deployed and configured an open-source **osTicket helpdesk system** on a Microsoft Azure virtual machine.  
-Implemented Apache, MySQL, and PHP, secured the environment with HTTPS using Let’s Encrypt, and configured firewall rules.  
-Gained hands-on experience with **cloud deployment, Linux administration, and IT service management**.
 
 ---
 
 ### 🧩 Download File Organizer Automation  
 **Python | File Management | Automation**  
-Created a Python script to automatically organize downloaded files into categorized folders (Documents, Images, Videos, etc.).  
-Integrated **SHA-256 hashing** for duplicate detection and detailed logging for tracking file movement.
 
 ---
 
@@ -70,5 +65,3 @@ Integrated **SHA-256 hashing** for duplicate detection and detailed logging for 
 - **Athletic Scholarship Recipient** — Recognized for excellence in competitive diving, ranking in the top 5% at the state level  
 
 ---
-
-> 💬 *“Reliable infrastructure keeps technology running — I aim to help build and maintain it.”*
