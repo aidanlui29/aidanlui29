@@ -17,7 +17,7 @@ My background in computer science has helped me discover a passion for informati
 | Cloud Infrastructure Deployment (Azure, Ubuntu, LAMP Stack) | [osTicket Helpdesk Deployment](#osticket-helpdesk-deployment) |
 | Server Configuration & Hardening (Apache, MySQL, PHP, HTTPS) | [osTicket Helpdesk Deployment](#osticket-helpdesk-deployment) |
 | Linux Administration & Shell Scripting | [osTicket Helpdesk Deployment](#osticket-helpdesk-deployment) |
-| File System Automation with Python | [Download File Organizer Automation](#download-file-organizer-automation) |
+| File System Automation with Python | [Download File Organizer Automation](https://github.com/aidanlui29/Download-File-Organizer-Automation) |
 | Workflow Automation (Power Automate) | IT Internship (City of Alhambra) |
 | Active Directory (User Management – Shadowed Experience) | IT Internship (City of Alhambra) |
 
