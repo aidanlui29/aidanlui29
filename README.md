@@ -14,9 +14,9 @@ My background in computer science has helped me discover a passion for informati
 
 | Skill                                         | Associated Project |
 |-----------------------------------------------|--------------------|
-| Cloud Infrastructure Deployment (Azure, Ubuntu, LAMP Stack) | [osTicket Helpdesk Deployment](#osticket-helpdesk-deployment) |
-| Server Configuration & Hardening (Apache, MySQL, PHP, HTTPS) | [osTicket Helpdesk Deployment](#osticket-helpdesk-deployment) |
-| Linux Administration & Shell Scripting | [osTicket Helpdesk Deployment](#osticket-helpdesk-deployment) |
+| Cloud Infrastructure Deployment (Azure, Ubuntu, LAMP Stack) | [osTicket Helpdesk Deployment](https://github.com/aidanlui29/osTikcet-Helpdesk-Deployment) |
+| Server Configuration & Hardening (Apache, MySQL, PHP, HTTPS) | [osTicket Helpdesk Deployment](https://github.com/aidanlui29/osTikcet-Helpdesk-Deployment) |
+| Linux Administration & Shell Scripting | [osTicket Helpdesk Deployment](https://github.com/aidanlui29/osTikcet-Helpdesk-Deployment) |
 | File System Automation with Python | [Download File Organizer Automation](https://github.com/aidanlui29/Download-File-Organizer-Automation) |
 | Workflow Automation (Power Automate) | IT Internship (City of Alhambra) |
 | Active Directory (User Management – Shadowed Experience) | IT Internship (City of Alhambra) |
@@ -28,9 +28,13 @@ My background in computer science has helped me discover a passion for informati
 ### ☁️ Cloud & Systems
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu-FFFFFF?&style=for-the-badge&logo=Ubuntu&logoColor=E95420" />
     <img src="https://img.shields.io/badge/-Apache-D22128?&style=for-the-badge&logo=Apache&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MariaDB-003545?&style=for-the-badge&logo=MariaDB&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PHP-777BB4?&style=for-the-badge&logo=PHP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash_Shell-121011?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-UFW_Firewall-0078D4?&style=for-the-badge&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Certbot-2D7A4D?&style=for-the-badge&logo=Let's-Encrypt&logoColor=white" />
 </div>
 
 ### 🛠️ Administration & Automation
