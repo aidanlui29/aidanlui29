@@ -17,9 +17,9 @@ My background in computer science has helped me discover a passion for informati
 | Cloud Infrastructure Deployment (Azure, Ubuntu, LAMP Stack) | [osTicket Helpdesk Deployment](https://github.com/aidanlui29/osTikcet-Helpdesk-Deployment) |
 | Server Configuration & Hardening (Apache, MySQL, PHP, HTTPS) | [osTicket Helpdesk Deployment](https://github.com/aidanlui29/osTikcet-Helpdesk-Deployment) |
 | Linux Administration & Shell Scripting | [osTicket Helpdesk Deployment](https://github.com/aidanlui29/osTikcet-Helpdesk-Deployment) |
-| Enterprise Network Design (VLANs, DHCP, DNS, NAT, ACL) | [Small Office Network Project](https://github.com/aidanlui29/Small-Office-Network) |
-| Routing & Switching (Cisco IOS, Static Routing) | [Small Office Network Project](https://github.com/aidanlui29/Small-Office-Network) |
-| Network Troubleshooting (Ping, Traceroute, NAT Verification) | [Small Office Network Project](https://github.com/aidanlui29/Small-Office-Network) |
+| Enterprise Network Design (VLANs, DHCP, DNS, NAT, ACL) | [Small Office Network](https://github.com/aidanlui29/Small-Office-Network) |
+| Routing & Switching (Cisco IOS, Static Routing) | [Small Office Network](https://github.com/aidanlui29/Small-Office-Network) |
+| Network Troubleshooting (Ping, Traceroute, NAT Verification) | [Small Office Network](https://github.com/aidanlui29/Small-Office-Network) |
 | File System Automation with Python | [Download File Organizer Automation](https://github.com/aidanlui29/Download-File-Organizer-Automation) |
 | Workflow Automation (Power Automate) | IT Internship (City of Alhambra) |
 | Active Directory (User Management – Shadowed Experience) | IT Internship (City of Alhambra) |
