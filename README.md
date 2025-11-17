@@ -17,6 +17,9 @@ My background in computer science has helped me discover a passion for informati
 | Cloud Infrastructure Deployment (Azure, Ubuntu, LAMP Stack) | [osTicket Helpdesk Deployment](https://github.com/aidanlui29/osTikcet-Helpdesk-Deployment) |
 | Server Configuration & Hardening (Apache, MySQL, PHP, HTTPS) | [osTicket Helpdesk Deployment](https://github.com/aidanlui29/osTikcet-Helpdesk-Deployment) |
 | Linux Administration & Shell Scripting | [osTicket Helpdesk Deployment](https://github.com/aidanlui29/osTikcet-Helpdesk-Deployment) |
+| Enterprise Network Design (VLANs, DHCP, DNS, NAT, ACL) | [Small Office Network Project](https://github.com/aidanlui29/Small-Office-Network) |
+| Routing & Switching (Cisco IOS, Static Routing) | [Small Office Network Project](https://github.com/aidanlui29/Small-Office-Network) |
+| Network Troubleshooting (Ping, Traceroute, NAT Verification) | [Small Office Network Project](https://github.com/aidanlui29/Small-Office-Network) |
 | File System Automation with Python | [Download File Organizer Automation](https://github.com/aidanlui29/Download-File-Organizer-Automation) |
 | Workflow Automation (Power Automate) | IT Internship (City of Alhambra) |
 | Active Directory (User Management – Shadowed Experience) | IT Internship (City of Alhambra) |
@@ -32,6 +35,7 @@ My background in computer science has helped me discover a passion for informati
     <img src="https://img.shields.io/badge/-Apache-D22128?&style=for-the-badge&logo=Apache&logoColor=white" />
     <img src="https://img.shields.io/badge/-MariaDB-003545?&style=for-the-badge&logo=MariaDB&logoColor=white" />
     <img src="https://img.shields.io/badge/-PHP-777BB4?&style=for-the-badge&logo=PHP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_Packet_Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bash_Shell-121011?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
     <img src="https://img.shields.io/badge/-UFW_Firewall-0078D4?&style=for-the-badge&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Certbot-2D7A4D?&style=for-the-badge&logo=Let's-Encrypt&logoColor=white" />
@@ -66,6 +70,11 @@ My background in computer science has helped me discover a passion for informati
 
 ### 🧩 Download File Organizer Automation  
 **Python | File Management | Automation**  
+
+---
+
+### 🌐 Small Office Network Project – Cisco Packet Tracer  
+**Cisco Packet Tracer | VLANs | DHCP | DNS | NAT | ACLs**  
 
 ---
 
